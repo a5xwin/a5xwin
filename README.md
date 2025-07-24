@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/a5xwin">
-    <img src="https://github-readme-stats.vercel.app/api?username=a5xwin
+    <img src="[https://github-readme-stats.vercel.app/api?username=a5xwin
 &show_icons=true
 &include_all_commits=true
 &count_private=true
 &theme=tokyonight
 &hide_border=true
-&hide=issues
+&hide=issues](https://github-readme-stats.vercel.app/api?username=a5xwin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true%22%20alt=%22Ashwin%27s%20GitHub%20stats)
 " />
   </a>
   &nbsp;&nbsp;
